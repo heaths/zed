@@ -49,6 +49,7 @@
     "Ayu Light": {
       "syntax": {
         "hint": {
+          "color": "#a9acaeff",
           "font_style": "italic"
         }
       }
@@ -56,6 +57,7 @@
     "Ayu Dark": {
       "syntax": {
         "hint": {
+          "color": "#696a6aff",
           "font_style": "italic"
         }
       }

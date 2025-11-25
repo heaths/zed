@@ -1,4 +1,14 @@
 {
+  "agent": {
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "claude-sonnet-4.5"
+    },
+    "model_parameters": []
+  },
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
   "minimap": {
     "show": "auto"
   },
@@ -20,7 +30,7 @@
       "function": false
     }
   },
-  "ui_font_size": 13,
+  "ui_font_size": 14,
   "buffer_font_size": 12,
   "buffer_line_height": "standard",
   "terminal": {
@@ -32,7 +42,7 @@
   },
   "theme": {
     "mode": "system",
-    "light": "One Light",
-    "dark": "One Dark"
+    "light": "Ayu Light",
+    "dark": "Ayu Dark"
   }
 }

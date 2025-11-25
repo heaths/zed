@@ -44,5 +44,21 @@
     "mode": "system",
     "light": "Ayu Light",
     "dark": "Ayu Dark"
+  },
+  "theme_overrides": {
+    "Ayu Light": {
+      "syntax": {
+        "hint": {
+          "font_style": "italic"
+        }
+      }
+    },
+    "Ayu Dark": {
+      "syntax": {
+        "hint": {
+          "font_style": "italic"
+        }
+      }
+    }
   }
 }
